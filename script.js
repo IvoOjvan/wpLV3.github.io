@@ -44,12 +44,6 @@ let items = [
         name: 'Ham',
         price: 5.5,
     }
-    ,
-    {
-        id: 7,
-        name: 'Mango',
-        price: 7.78,
-    }
 ];
 
 let cart = [];
